@@ -1,2 +1,2 @@
 # CRUD-clientes
- Criando um CRUD-clientes em php que usa banco de dados phpmyadmin
+ Criando um CRUD-clientes em php que usa Phpmyadmin
